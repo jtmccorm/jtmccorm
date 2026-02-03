@@ -2,15 +2,16 @@
 > AI/ML systems for people who have to decide before the data is perfect.  
 > Tools, demos, projects - NCSSD.
 
-I'm a former cav scout turned military Data Scientist and ML Engineer. Education include CMU's [MISM_BIDA](https://www.heinz.cmu.edu/programs/information-systems-management-master/bida) and USMA undergrad (Math and Mil History). My focus is on probabilistic modeling, operational analytics, and decision support systems that remain useful when data is messy and stakes are high. I have deep experience with probabilistic modelling and logistics problem sets. Currently focusing on expanding my skillset with contemporary LLM stacks and building personal knowledge management tools to push myself further.
+Former cavalry scout turned military data scientist and ML engineer.
+Educated at USMA (Applied Mathematics, Military History) and Carnegie Mellon’s [MISM-BIDA](https://www.heinz.cmu.edu/programs/information-systems-management-master/bida).
+
+I focus on probabilistic modeling, analytics, and decision-support systems that remain useful when data is messy and stakes are high. Most of my work lives at the intersection of uncertainty, logistics, and real operational constraints.
 
 ### 📌 Highlighted Work
-- **HES_Reevaluated** — Geo-spatial analytics for historical military data from the Vietnam War, combining tidy R data processing for messy raw data from National Archives and arcGIS visualizations 
-- **NETCOM_Capstone_S22** — Anomaly Detection Web App using dynamic ensembles and SHAP explanations, supporting NETCOM DSD PITT in detecting malicious cyber security traffic
+- **HES_Reevaluated** — Geospatial analysis of historical Vietnam-era military data, integrating messy archival sources with ArcGIS visualizations  
+- **NETCOM_Capstone_S22** — Anomaly-detection web app using dynamic ensembles and SHAP, supporting real-world cybersecurity operations
 
 ### 🛠 Tech & Themes
-**Languages:** Python, R, TypeScript &middot; **Focus areas:** probabilistic ML, analytics, LLM integration &middot; **Tools:** Flask/FastAPI, SHAP, Docker, AWS
-
----
-
-I build systems that matter where data is imperfect and decisions are inevitable.
+Python · R · TypeScript  
+Probabilistic ML · Decision Support · LLM Integration  
+Flask / FastAPI · SHAP · Docker · AWS
